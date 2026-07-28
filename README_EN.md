@@ -245,7 +245,7 @@ esp32-p4c5-core-board/
 </p>
 
 - 🛒 Taobao (Product): [OSPTEK ESP32-P4C5 Core Board](https://item.taobao.com/item.htm?id=1010716172687)
-- 🏬 Taobao Store: [Yuying Optoelectronics](https://shop110742373.taobao.com/)
+- 🏬 Taobao Store: [OSPTEK Official Store](https://shop110742373.taobao.com/)
 
 ---
 

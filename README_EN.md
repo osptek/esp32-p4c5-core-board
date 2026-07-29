@@ -150,7 +150,7 @@ The ESP32-P4 main controller integrates two high-performance (HP) RISC-V cores a
 
 ### Pin Definitions
 
-The core board has **88 pins** (stamp-hole) in total. See the full 👉 **[Pin Definition Table](./pages/引脚定义.md)**
+The core board has **88 pins** (stamp-hole) in total. See the full 👉 **[Pin Definition Table](./pages/pin-definition_EN.md)**
 
 ### Internal Connection (ESP32-C5 ↔ ESP32-P4)
 
@@ -209,7 +209,8 @@ esp32-p4c5-core-board/
 ├── docs/              # Datasheets, user guides (PDF)
 ├── images/            # Images used in README & docs
 └── pages/             # Detailed sub-documents
-    └── 引脚定义.md    # Full 88-pin definition table
+    ├── 引脚定义.md            # Full 88-pin definition table (Chinese)
+    └── pin-definition_EN.md   # Full 88-pin definition table (English)
 ```
 
 ---
@@ -254,6 +255,7 @@ esp32-p4c5-core-board/
 For technical questions or business inquiries, feel free to contact us:
 
 - 🐧 QQ Technical Group: **985881096**
+- 🌐 Website: <https://osptek.com/>
 
 ---
 

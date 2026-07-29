@@ -207,7 +207,8 @@ esp32-p4c5-core-board/
 ├── docs/              # 数据手册、使用指南等 PDF 资料
 ├── images/            # README 及文档使用的图片
 └── pages/             # 详细子文档
-    └── 引脚定义.md    # 完整 88 Pin 引脚定义表
+    ├── 引脚定义.md            # 完整 88 Pin 引脚定义表（中文）
+    └── pin-definition_EN.md   # 完整 88 Pin 引脚定义表（英文）
 ```
 
 ---
@@ -259,6 +260,7 @@ esp32-p4c5-core-board/
 如有技术问题或合作需求，欢迎通过以下方式联系我们：
 
 - 🐧 QQ 技术交流群：**985881096**
+- 🌐 公司官网：<https://osptek.com/>
 
 ---
 

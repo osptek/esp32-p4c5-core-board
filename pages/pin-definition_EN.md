@@ -1,28 +1,28 @@
-# ESP32P4C5 核心板 · 引脚定义
+# ESP32-P4C5 Core Board · Pin Definition
 
-> 数据来自用户手册第 3.2 节。核心板共 **88 Pin**（邮票孔）。
-> 简体中文 | [English](pin-definition_EN.md)
-> 返回：[← 硬件资源](../README.md#硬件资源) ｜ [← 主页 README](../README.md)
+> Data from Section 3.2 of the user manual. The core board has **88 pins** (stamp holes).
+> English | [简体中文](引脚定义.md)
+> Back: [← Hardware Resources](../README_EN.md#hardware-resources) ｜ [← Home README](../README_EN.md)
 
 ---
 
-| Pin | 名称 | 说明 / 复用功能 |
-| --- | ---- | --------------- |
-| 1  | GND | 电源地 |
-| 2  | LAN_OUT | ESP32-C5 天线接口（板载 IPEX-1 座） |
-| 3  | GND | 电源地 |
-| 4  | C5_U0RXD | ESP32-C5 U0RXD（ESP32-C5 烧录脚） |
-| 5  | C5_U0TXD | ESP32-C5 U0TXD（ESP32-C5 烧录脚） |
-| 6  | C5_IO28 | ESP32-C5 GPIO28（C5 strapping 脚） |
-| 7  | C5_IO27 | ESP32-C5 GPIO27（C5 strapping 脚） |
-| 8  | C5_IO26 | ESP32-C5 GPIO26（C5 strapping 脚） |
+| Pin | Name | Description / Alternate Functions |
+| --- | ---- | --------------------------------- |
+| 1  | GND | Ground |
+| 2  | LAN_OUT | ESP32-C5 antenna connector (on-board IPEX-1 socket) |
+| 3  | GND | Ground |
+| 4  | C5_U0RXD | ESP32-C5 U0RXD (ESP32-C5 flashing pin) |
+| 5  | C5_U0TXD | ESP32-C5 U0TXD (ESP32-C5 flashing pin) |
+| 6  | C5_IO28 | ESP32-C5 GPIO28 (C5 strapping pin) |
+| 7  | C5_IO27 | ESP32-C5 GPIO27 (C5 strapping pin) |
+| 8  | C5_IO26 | ESP32-C5 GPIO26 (C5 strapping pin) |
 | 9  | C5_IO25 | ESP32-C5 GPIO25 |
 | 10 | C5_IO24 | ESP32-C5 GPIO24 |
 | 11 | C5_IO23 | ESP32-C5 GPIO23 |
 | 12 | C5_IO6 | ESP32-C5 GPIO6 |
 | 13 | C5_IO5 | ESP32-C5 GPIO5 |
 | 14 | C5_IO4 | ESP32-C5 GPIO4 |
-| 15 | GND | 电源地 |
+| 15 | GND | Ground |
 | 16 | GPIO1 | GPIO1, LP_GPIO1, XTAL_32K_P |
 | 17 | GPIO2 | GPIO2, MTCK, LP_GPIO2, TOUCH_CHANNEL0 |
 | 18 | GPIO3 | GPIO3, MTDI, LP_GPIO3, TOUCH_CHANNEL1 |
@@ -40,26 +40,26 @@
 | 30 | GPIO21 | GPIO21, ADC1_CHANNEL5 |
 | 31 | GPIO22 | GPIO22, ADC1_CHANNEL6 |
 | 32 | GPIO23 | GPIO23, ADC1_CHANNEL7, REF_50M_CLK_PAD |
-| 33 | GND | 电源地 |
+| 33 | GND | Ground |
 | 34 | DSI_D1P | MIPI DSI PHY DATAP1 |
 | 35 | DSI_D1N | MIPI DSI PHY DATAN1 |
 | 36 | DSI_CLKN | MIPI DSI PHY CLKN |
 | 37 | DSI_CLKP | MIPI DSI PHY CLKP |
 | 38 | DSI_D0P | MIPI DSI PHY DATAP0 |
 | 39 | DSI_D0N | MIPI DSI PHY DATAN0 |
-| 40 | GND | 电源地 |
+| 40 | GND | Ground |
 | 41 | CSI_D0N | MIPI CSI PHY DATAN0 |
 | 42 | CSI_D0P | MIPI CSI PHY DATAP0 |
 | 43 | CSI_CLKP | MIPI CSI PHY CLKP |
 | 44 | CSI_CLKN | MIPI CSI PHY CLKN |
 | 45 | CSI_D1N | MIPI CSI PHY DATAN1 |
 | 46 | CSI_D1P | MIPI CSI PHY DATAP1 |
-| 47 | GND | 电源地 |
+| 47 | GND | Ground |
 | 48 | DM | USB 2.0 OTG PHY DM |
 | 49 | DP | USB 2.0 OTG PHY DP |
 | 50 | GPIO24 | GPIO24, USB1P1_N0 |
 | 51 | GPIO25 | GPIO25, USB1P1_P0 |
-| 52 | GND | 电源地 |
+| 52 | GND | Ground |
 | 53 | GPIO26 | GPIO26, USB1P1_N1 |
 | 54 | GPIO27 | GPIO27, USB1P1_P1 |
 | 55 | GPIO28 | GPIO28, SPI2_CS_PAD, GMAC_PHY_RXDV_PAD |
@@ -69,11 +69,11 @@
 | 59 | GPIO32 | GPIO32, SPI2_HOLD_PAD, GMAC_RMII_CLK_PAD |
 | 60 | GPIO33 | GPIO33, SPI2_WP_PAD, GMAC_PHY_TXEN_PAD |
 | 61 | GPIO34 | GPIO34, SPI2_IO4_PAD, GMAC_PHY_TXD0_PAD |
-| 62 | GPIO35 | GPIO35, SPI2_IO5_PAD, GMAC_PHY_TXD1_PAD（模块内无上拉） |
-| 63 | GPIO36 | GPIO36, SPI2_IO6_PAD, GMAC_PHY_TXER_PAD（模块内无上拉） |
-| 64 | GPIO37 | GPIO37, UART0_TXD_PAD, SPI2_IO7_PAD（ESP32-P4 烧录脚） |
-| 65 | GPIO38 | GPIO38, UART0_RXD_PAD, SPI2_DQS_PAD（ESP32-P4 烧录脚） |
-| 66 | ESP_LDO_VO4 | 输出电源（0.5–2.7V 或 3.3V，最大输出电流 0.2A） |
+| 62 | GPIO35 | GPIO35, SPI2_IO5_PAD, GMAC_PHY_TXD1_PAD (no pull-up inside module) |
+| 63 | GPIO36 | GPIO36, SPI2_IO6_PAD, GMAC_PHY_TXER_PAD (no pull-up inside module) |
+| 64 | GPIO37 | GPIO37, UART0_TXD_PAD, SPI2_IO7_PAD (ESP32-P4 flashing pin) |
+| 65 | GPIO38 | GPIO38, UART0_RXD_PAD, SPI2_DQS_PAD (ESP32-P4 flashing pin) |
+| 66 | ESP_LDO_VO4 | Power output (0.5–2.7V or 3.3V, max output current 0.2A) |
 | 67 | GPIO39 | GPIO39, SD1_CDATA0_PAD, REF_50M_CLK_PAD |
 | 68 | GPIO40 | GPIO40, SD1_CDATA1_PAD, GMAC_PHY_TXEN_PAD |
 | 69 | GPIO41 | GPIO41, SD1_CDATA2_PAD, GMAC_PHY_TXD0_PAD |
@@ -90,9 +90,9 @@
 | 80 | GPIO52 | GPIO52, GMAC_PHY_RXD0_PAD, ADC2_CHANNEL3, ANA_COMP0 |
 | 81 | GPIO53 | GPIO53, GMAC_PHY_RXD1_PAD, ADC2_CHANNEL4, ANA_COMP1 |
 | 82 | GPIO54 | GPIO54, GMAC_PHY_RXER_PAD, ADC2_CHANNEL5, ANA_COMP1 |
-| 83 | GND | 电源地 |
-| 84 | RTC_VBAT | 备份电源脚（严禁悬空，电压 2.3–3.6V，可接 3.3V） |
-| 85 | ESP_3V3 | 电源（核心板 3.3V 输入） |
-| 86 | ESP_3V3 | 电源（核心板 3.3V 输入） |
-| 87 | CHIP_PU | ESP32-P4 使能脚（无内部 RC 复位，需外部复位） |
+| 83 | GND | Ground |
+| 84 | RTC_VBAT | Backup power pin (must not be left floating; 2.3–3.6V, can connect to 3.3V) |
+| 85 | ESP_3V3 | Power (core board 3.3V input) |
+| 86 | ESP_3V3 | Power (core board 3.3V input) |
+| 87 | CHIP_PU | ESP32-P4 enable pin (no internal RC reset; external reset required) |
 | 88 | GPIO0 | GPIO0, LP_GPIO0, XTAL_32K_N |

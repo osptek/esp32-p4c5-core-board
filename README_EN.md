@@ -195,7 +195,7 @@ core-board pins broken out for rapid evaluation and secondary development.
   </tr>
 </table>
 
-Dedicated dev-board repository (🚧 under construction, links to be updated):
+Dedicated dev-board repository:
 
 - GitHub: <https://github.com/osptek-tech/esp32-p4c5-module-dev-board>
 - Gitee: <https://gitee.com/osptek/esp32-p4c5-module-dev-board>

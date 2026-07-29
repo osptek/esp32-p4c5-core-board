@@ -193,7 +193,7 @@ ESP32-C5 与 ESP32-P4 之间通过 **SDIO + IO** 互联通信，连接关系如�
   </tr>
 </table>
 
-开发板独立仓库（🚧 建设中，链接待更新）：
+开发板独立仓库：
 
 - GitHub：<https://github.com/osptek-tech/esp32-p4c5-module-dev-board>
 - Gitee：<https://gitee.com/osptek/esp32-p4c5-module-dev-board>

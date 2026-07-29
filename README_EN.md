@@ -1,3 +1,5 @@
+<p align="left"><img alt="OSPTEK" src="./images/logo.png" width="200" /></p>
+
 <h1 align="center">OSPTEK ESP32-P4C5 Core Board</h1>
 
 <p align="center"><b>High-Performance RISC-V Dual-Core · Powerful Image & Multimedia Processing · Compact Stamp-Hole Core Board</b></p>
@@ -183,7 +185,7 @@ Module dimensions: **25.00 × 25.00 mm** (±0.15 mm).
 ## Carrier Board
 
 The matching development board for this core board is the **ESP32-P4C5-Module Dev Board**
-(`esp32-p4c5-dev-board`), featuring USB, MIPI-CSI / MIPI-DSI and other interfaces, with all
+(`esp32-p4c5-module-dev-board`), featuring USB, MIPI-CSI / MIPI-DSI and other interfaces, with all
 core-board pins broken out for rapid evaluation and secondary development.
 
 <table align="center">
@@ -195,8 +197,8 @@ core-board pins broken out for rapid evaluation and secondary development.
 
 Dedicated dev-board repository (🚧 under construction, links to be updated):
 
-- GitHub: <https://github.com/osptek-tech/esp32-p4c5-dev-board>
-- Gitee: <https://gitee.com/osptek/esp32-p4c5-dev-board>
+- GitHub: <https://github.com/osptek-tech/esp32-p4c5-module-dev-board>
+- Gitee: <https://gitee.com/osptek/esp32-p4c5-module-dev-board>
 
 ---
 
@@ -240,12 +242,15 @@ esp32-p4c5-core-board/
 ## Where to Buy
 
 <p align="center">
+  <a href="https://www.aliexpress.com/item/1005012626312933.html"><img alt="Buy on AliExpress" src="https://img.shields.io/badge/AliExpress-Buy_Now-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="https://item.taobao.com/item.htm?id=1010716172687"><img alt="Buy on Taobao" src="https://img.shields.io/badge/Taobao-Buy_Now-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://shop110742373.taobao.com/"><img alt="OSPTEK Official Store" src="https://img.shields.io/badge/OSPTEK-Official_Store-FF6A00?style=for-the-badge" /></a>
 </p>
 
-- 🛒 Taobao (Product): [OSPTEK ESP32-P4C5 Core Board](https://item.taobao.com/item.htm?id=1010716172687)
+- 🌍 AliExpress (International): [OSPTEK ESP32-P4C5 Core Board](https://www.aliexpress.com/item/1005012626312933.html)
+- 🛒 Taobao (China): [OSPTEK ESP32-P4C5 Core Board](https://item.taobao.com/item.htm?id=1010716172687)
 - 🏬 Taobao Store: [OSPTEK Official Store](https://shop110742373.taobao.com/)
 
 ---
@@ -254,6 +259,7 @@ esp32-p4c5-core-board/
 
 For technical questions or business inquiries, feel free to contact us:
 
+- 📧 Technical Support / Sales: <luyu@osptek.com>
 - 🐧 QQ Technical Group: **985881096**
 - 🌐 Website: <https://osptek.com/>
 

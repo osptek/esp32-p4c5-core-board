@@ -1,3 +1,5 @@
+<p align="left"><img alt="OSPTEK" src="./images/logo.png" width="200" /></p>
+
 <h1 align="center">OSPTEK ESP32-P4C5 核心板</h1>
 
 <p align="center"><b>高性能 RISC-V 双核 · 强大图像多媒体处理 · 小尺寸邮票孔核心板</b></p>
@@ -181,7 +183,7 @@ ESP32-C5 与 ESP32-P4 之间通过 **SDIO + IO** 互联通信，连接关系如�
 
 ## 配套底板
 
-本核心板的配套开发板为 **ESP32-P4C5-Module 开发板**（`esp32-p4c5-dev-board`），
+本核心板的配套开发板为 **ESP32-P4C5-Module 开发板**（`esp32-p4c5-module-dev-board`），
 板载 USB、MIPI-CSI / MIPI-DSI 等接口，并将核心板引脚全部引出，方便快速评估与二次开发。
 
 <table align="center">
@@ -193,8 +195,8 @@ ESP32-C5 与 ESP32-P4 之间通过 **SDIO + IO** 互联通信，连接关系如�
 
 开发板独立仓库（🚧 建设中，链接待更新）：
 
-- GitHub：<https://github.com/osptek-tech/esp32-p4c5-dev-board>
-- Gitee：<https://gitee.com/osptek/esp32-p4c5-dev-board>
+- GitHub：<https://github.com/osptek-tech/esp32-p4c5-module-dev-board>
+- Gitee：<https://gitee.com/osptek/esp32-p4c5-module-dev-board>
 
 ---
 
@@ -247,10 +249,13 @@ esp32-p4c5-core-board/
 <p align="center">
   <a href="https://item.taobao.com/item.htm?id=1010716172687"><img alt="淘宝立即购买" src="https://img.shields.io/badge/淘宝-立即购买-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
   &nbsp;&nbsp;
+  <a href="https://www.aliexpress.com/item/1005012626312933.html"><img alt="速卖通立即购买" src="https://img.shields.io/badge/速卖通-立即购买-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="https://shop110742373.taobao.com/"><img alt="鱼鹰光电官方店铺" src="https://img.shields.io/badge/鱼鹰光电-官方店铺-FF6A00?style=for-the-badge" /></a>
 </p>
 
 - 🛒 淘宝商品：[OSPTEK ESP32-P4C5 核心板](https://item.taobao.com/item.htm?id=1010716172687)
+- 🌍 速卖通（海外）：[OSPTEK ESP32-P4C5 Core Board](https://www.aliexpress.com/item/1005012626312933.html)
 - 🏬 淘宝店铺：[鱼鹰光电工厂店](https://shop110742373.taobao.com/)
 
 ---
@@ -259,6 +264,7 @@ esp32-p4c5-core-board/
 
 如有技术问题或合作需求，欢迎通过以下方式联系我们：
 
+- 📧 技术支持 / 产品咨询：<luyu@osptek.com>
 - 🐧 QQ 技术交流群：**985881096**
 - 🌐 公司官网：<https://osptek.com/>
 

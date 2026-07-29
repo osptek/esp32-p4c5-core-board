@@ -244,14 +244,24 @@ esp32-p4c5-core-board/
 <p align="center">
   <a href="https://www.aliexpress.com/item/1005012626312933.html"><img alt="Buy on AliExpress" src="https://img.shields.io/badge/AliExpress-Buy_Now-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://item.taobao.com/item.htm?id=1010716172687"><img alt="Buy on Taobao" src="https://img.shields.io/badge/Taobao-Buy_Now-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://shop110742373.taobao.com/"><img alt="OSPTEK Official Store" src="https://img.shields.io/badge/OSPTEK-Official_Store-FF6A00?style=for-the-badge" /></a>
+  <a href="https://www.aliexpress.com/store/1105701619"><img alt="AliExpress Official Store" src="https://img.shields.io/badge/AliExpress-Official_Store-FF6A00?style=for-the-badge" /></a>
 </p>
 
-- 🌍 AliExpress (International): [OSPTEK ESP32-P4C5 Core Board](https://www.aliexpress.com/item/1005012626312933.html)
-- 🛒 Taobao (China): [OSPTEK ESP32-P4C5 Core Board](https://item.taobao.com/item.htm?id=1010716172687)
-- 🏬 Taobao Store: [OSPTEK Official Store](https://shop110742373.taobao.com/)
+<p align="center">
+  <a href="https://item.taobao.com/item.htm?id=1010716172687"><img alt="Buy on Taobao" src="https://img.shields.io/badge/Taobao-Buy_Now-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://shop110742373.taobao.com/"><img alt="Taobao Official Store" src="https://img.shields.io/badge/Taobao-Official_Store-FF6A00?style=for-the-badge" /></a>
+</p>
+
+**International (AliExpress)**
+
+- 🌍 Product: [OSPTEK ESP32-P4C5 Core Board](https://www.aliexpress.com/item/1005012626312933.html)
+- 🏪 Store: [OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
+
+**China (Taobao)**
+
+- 🛒 Product: [OSPTEK ESP32-P4C5 Core Board](https://item.taobao.com/item.htm?id=1010716172687)
+- 🏬 Store: [OSPTEK Official Store](https://shop110742373.taobao.com/)
 
 ---
 

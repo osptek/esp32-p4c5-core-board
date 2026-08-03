@@ -208,7 +208,7 @@ Dedicated dev-board repository:
 esp32-p4c5-core-board/
 ├── README.md          # Product documentation (Chinese)
 ├── README_EN.md       # Product documentation (English, this file)
-├── docs/              # user guides, footprint libraries
+├── docs/              # user guides, footprint libraries, 3D model
 ├── images/            # Images used in README & docs
 └── pages/             # Detailed sub-documents
     ├── 引脚定义.md            # Full 88-pin definition table (Chinese)
@@ -225,6 +225,7 @@ esp32-p4c5-core-board/
 - [ESP32-P4C5-Core 核心板使用指南 (CN)](./docs/ESP32-P4C5-Core核心板_使用指南2026.1.6.pdf)
 - [ESP32P4C5 module footprint library (SchLib)](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C5 module footprint library (PcbLib)](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
+- [P4 module 3D model (STEP)](./docs/P4%E6%A8%A1%E7%BB%843D%E6%A8%A1%E5%9E%8B.step)
 
 ### Chip Documentation (Espressif)
 

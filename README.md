@@ -206,7 +206,7 @@ ESP32-C5 与 ESP32-P4 之间通过 **SDIO + IO** 互联通信，连接关系如�
 esp32-p4c5-core-board/
 ├── README.md          # 产品说明（本文档）
 ├── README_EN.md       # 英文说明
-├── docs/              # 使用指南、封装库等资料
+├── docs/              # 使用指南、封装库、3D 模型等资料
 ├── images/            # README 及文档使用的图片
 └── pages/             # 详细子文档
     ├── 引脚定义.md            # 完整 88 Pin 引脚定义表（中文）
@@ -223,6 +223,7 @@ esp32-p4c5-core-board/
 - [ESP32-P4C5-Core Core Board User Guide（英文）](./docs/ESP32-P4C5-Core_User%20Guide%2020260521.pdf)
 - [ESP32P4C5 模组封装库（原理图 SchLib）](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.SchLib)
 - [ESP32P4C5 模组封装库（PCB PcbLib）](./docs/ESP32P4C5%E6%A8%A1%E7%BB%84%E5%B0%81%E8%A3%85.PcbLib)
+- [P4 模组 3D 模型（STEP）](./docs/P4%E6%A8%A1%E7%BB%843D%E6%A8%A1%E5%9E%8B.step)
 
 ### 芯片资料（乐鑫官方）
 

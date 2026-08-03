@@ -247,26 +247,18 @@ esp32-p4c5-core-board/
 ## 购买链接
 
 <p align="center">
-  <a href="https://item.taobao.com/item.htm?id=1010716172687"><img alt="淘宝立即购买" src="https://img.shields.io/badge/淘宝-立即购买-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
-  &nbsp;&nbsp;
   <a href="https://shop110742373.taobao.com/"><img alt="淘宝官方店铺" src="https://img.shields.io/badge/淘宝-官方店铺-FF6A00?style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.aliexpress.com/item/1005012626312933.html"><img alt="速卖通立即购买" src="https://img.shields.io/badge/速卖通-立即购买-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.aliexpress.com/store/1105701619"><img alt="速卖通官方店铺" src="https://img.shields.io/badge/速卖通-官方店铺-FF6A00?style=for-the-badge" /></a>
+  <a href="https://www.aliexpress.com/store/1105701619"><img alt="速卖通官方店铺" src="https://img.shields.io/badge/速卖通-官方店铺-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
 </p>
 
 **国内（淘宝）**
 
-- 🛒 商品：[OSPTEK ESP32-P4C5 核心板](https://item.taobao.com/item.htm?id=1010716172687)
-- 🏬 店铺：[鱼鹰光电工厂店](https://shop110742373.taobao.com/)
+- 店铺：[鱼鹰光电工厂店](https://shop110742373.taobao.com/)
 
 **海外（AliExpress）**
 
-- 🌍 商品：[OSPTEK ESP32-P4C5 Core Board](https://www.aliexpress.com/item/1005012626312933.html)
-- 🏪 店铺：[OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
+- 店铺：[OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
 
 ---
 

@@ -1,0 +1,13 @@
+id: esp32-p4c5-core-board
+category: core-boards
+
+title: ESP32-P4C5
+summary: RISC-V dual-core (ESP32-P4 + ESP32-C5), 16MB Flash, 32MB PSRAM, Wi-Fi 6 & Bluetooth 5, compact stamp-hole module.
+
+specs:
+  mcu: ESP32-P4
+  wireless: ESP32-C5HF4
+  clock: 400 MHz
+  flash: 16 MB
+  psram: 32 MB
+  size: 25x25 mm
